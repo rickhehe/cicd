@@ -1,10 +1,10 @@
 #!/usr/bin/env python
-
+# afalfwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwdddddddddddddddddddddddddddddddd
 
 def add(x, y):
     return int(x + y)
 
 
-print(add(1, 1))
-#var=1
-#var=var
+
+var=1
+var=var
